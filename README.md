@@ -6,7 +6,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/sudipto-ghosh)
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/sudiptog81)](https://keybase.io/sudiptog81)
 
-🎓 Majoring in Computer Science and Mathematics  from the University of Delhi (Class of 2022) 
+👨‍🎓 Majoring in Computer Science and Mathematics  from the University of Delhi (Class of 2022) 
 
 ```js
 export default () => ({
