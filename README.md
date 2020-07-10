@@ -11,6 +11,7 @@
 ```js
 export default () => ({
   pronouns: "He" | "Him",
+  pubKey: "866E 3ED1 217B 85DC",
   blogUrl: "http://blog.ghosh.pro/",
   askMeAbout: [
     "webdev", "tech", "music",
