@@ -7,18 +7,18 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/sudipto-ghosh)
 <!-- [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/sudiptog81)](https://keybase.io/sudiptog81) -->
 
-👨‍🎓 Pursuing a Masters in Computer Science and doing some NLP Research 👾
+👨‍🎓 Doctoral Researcher at [IIT Delhi](https://www.iitd.ac.in) doing some LLM Research 👾
 
 ```js
 export default () => ({
   pronouns: "He" | "Him",
   pubKey: "866E 3ED1 217B 85DC",
-  organization: "University of Delhi",
-  department: "Computer Science",
+  organization: Indian Institute of Technology, Delhi",
+  school: "Artificial Intelligence",
   askMeAbout: [
-    "webdev", "tech", "data",
-    "mathematics", "research",
-    "nlp", "knowledge graphs"
+    "llm", "knowledge graphs",
+    "mathematics", "research"
+    "webdev", "nlp", "data",
   ],
   technologies: {
     "languages": [ "C", "C++", "Python", "Java", "C#", "JavaScript",
